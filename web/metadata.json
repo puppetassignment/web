@@ -1,0 +1,14 @@
+{
+  "name": "xoriant-web",
+  "version": "0.1.0",
+  "author": "Xoriant",
+  "summary": "no",
+  "license": "Apache-2.0",
+  "source": "git",
+  "project_page": "no",
+  "issues_url": "nowhere",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
