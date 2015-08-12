@@ -44,6 +44,6 @@
 #
 class web {
 include web::pckg
-#include web::fl
-#include web::srvc
+include web::fl
+include web::srvc
 }
